@@ -1,6 +1,5 @@
 import http from "http";
 import { Server } from "socket.io";
-import { instrument } from "@socket.io/admin-ui";
 import express from "express";
 
 const app = express();
